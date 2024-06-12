@@ -1,7 +1,16 @@
 ### Hi there 👋
+I'm a student at Novosibirsk state university.
+
+So, there is my projects:
 
 <!--
+
+([header.png](https://github.com/mrMaliosi/mrMaliosi/blob/main/header.png))
 **mrMaliosi/mrMaliosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align='center'>
+  <img src='https://github.com/mrMaliosi/mrMaliosi/blob/main/header.png' width='1000'>
+</p>
 
 Here are some ideas to get you started:
 
