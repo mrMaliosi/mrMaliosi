@@ -12,6 +12,7 @@
 - 🏅 Competitive programmer
 - 🎨 Like 3D-modeling and compuer games
 - 📖 Favourite books: Metro 2033, War and peace.
+- 🏋️‍♀️ Sports: swimming.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=03C324&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Languages)](https://git.io/typing-svg)
 
@@ -59,10 +60,6 @@
 
 </details>
 
-
-
-
-
 <details> 
   <summary><h3>Projects you may interested in</h3></summary>
 
@@ -71,18 +68,15 @@
 </details>
 
 
-
-
-
-
-
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
 
 
+
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=About+me)](https://git.io/typing-svg)
-<!--
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrMaliosi)](https://github.com/mrMaliosi/github-readme-stats)
 
