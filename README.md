@@ -63,7 +63,19 @@
 <details> 
   <summary><h3>Projects you may interested in</h3></summary>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C)](https://git.io/typing-svg)
+
   Will be soon...
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C630CA&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C%2B%2B)](https://git.io/typing-svg)
+
+  Will be soon...
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EE9C2F&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Java)](https://git.io/typing-svg)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_JavaLabs)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
@@ -134,4 +146,6 @@ Here are some ideas to get you started:
 -	ICPC 47th Annual World Championship
 	  - 🏅 Ranked (MathWay team, Luxor)
 
+
+<a href="https://github.com/mrMaliosi/NSU_MPI_Balancer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 -->
