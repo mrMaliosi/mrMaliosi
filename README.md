@@ -9,8 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&repeat=false&random=false&width=435&height=24&lines=About+me)](https://git.io/typing-svg)
 - 🎓 Third cource student of Novosibirsk state university.
-- 🏅 Competitive programmer
-- 🎨 Like 3D-modeling and compuer games
+- 🏅 Competitive programmer.
+- 🎨 Like 3D-modeling, compuer and board games.
 - 📖 Favourite books: Metro 2033, War and peace.
 - 🏋️‍♀️ Sports: swimming.
 
