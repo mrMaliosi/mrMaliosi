@@ -2,17 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=And%20welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
-
-<!--
-### Hi there 👋
--->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&repeat=false&random=false&width=435&height=24&lines=About+me)](https://git.io/typing-svg)
 - 🎓 Third cource student of Novosibirsk state university.
 - 🏅 Competitive programmer.
+- 🌐 Foreign languages: english (B2).
 - 🎨 Like 3D-modeling, compuer and board games.
 - 📖 Favourite books: Metro 2033, War and peace.
 - 🏋️‍♀️ Sports: swimming.
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=03C324&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Languages)](https://git.io/typing-svg)
 
