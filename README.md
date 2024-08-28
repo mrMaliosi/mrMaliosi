@@ -68,8 +68,10 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C630CA&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C%2B%2B)](https://git.io/typing-svg)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_CPPLabs)](https://github.com/mrMaliosi/NSU_CPPLabs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_CPPLabs)](https://github.com/mrMaliosi/NSU_CPPLabs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer)](https://github.com/mrMaliosi/NSU_MPI_Balancer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=Computer_Vision_programs)](https://github.com/mrMaliosi/Computer_Vision_programs)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EE9C2F&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Java)](https://git.io/typing-svg)
 
