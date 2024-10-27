@@ -9,6 +9,7 @@
 - 🎨 Like 3D-modeling, compuer and board games.
 - 📖 Favourite books: Metro 2033, War and peace.
 - 🏋️‍♀️ Sports: swimming.
+- ✉️ Contact me: malinovskiy.denis@yandex.ru
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=03C324&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Languages)](https://git.io/typing-svg)
