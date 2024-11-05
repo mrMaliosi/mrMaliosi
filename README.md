@@ -26,6 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E42DBE&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Stats)](https://git.io/typing-svg)
 
