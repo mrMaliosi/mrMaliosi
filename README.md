@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C022&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Technologies)](https://git.io/typing-svg)
@@ -32,11 +33,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrMaliosi)](https://github.com/mrMaliosi/github-readme-stats)
 
+
+
 <details>  
 <summary> <h3> My competitive programming achivements 🥇🥈🏅 </h3> </summary>
 
 -	All-Russian Olympiad of schoolchildren in computer science regional stage (2021-2022) 
-    - 🌟 Participation
+  	  - 🌟 Participation
 -	XXIII Open All-Siberian Programming Olympiad named after I.V. Pottosin.
 	  - 🌟 Participation (MathWay team, online)
 -	ICPC 2022 West Siberian Regional Contest.
@@ -58,43 +61,63 @@
 
 </details>
 
+
+
+<!--Projects you may interested in-->
 <details> 
   <summary><h3>Projects you may interested in</h3></summary>
 
+<!--C-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C)](https://git.io/typing-svg)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_C_problems)](https://github.com/mrMaliosi/NSU_C_problems)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_C_problems)](https://github.com/mrMaliosi/NSU_C_problems)
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=Archivator)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mrMaliosi/NSU_MPI_Balancer)) -->
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C630CA&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C%2B%2B)](https://git.io/typing-svg)
+<!--C++-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C630CA&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C%2B%2B)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_CPPLabs)](https://github.com/mrMaliosi/NSU_CPPLabs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer)](https://github.com/mrMaliosi/NSU_MPI_Balancer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=Computer_Vision_programs)](https://github.com/mrMaliosi/Computer_Vision_programs)
 
-
+<!--JAVA-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EE9C2F&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Java)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_JavaLabs)](https://github.com/mrMaliosi/NSU_JavaLabs)
-   
+
+<!--GO-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A29C&vCenter=true&repeat=false&random=false&width=435&height=24&lines=GO)](https://git.io/typing-svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_Networks)](https://github.com/mrMaliosi/NSU_Networks)
 </details>
+
 
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
 
+<!--END.-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
-### [NSU_JavaLabs](https://github.com/mrMaliosi/NSU_JavaLabs)
-  Лабароторные работы, написанные в 4-ом семестре обучения в НГУ.
-  #### 	- [Tetris](https://github.com/mrMaliosi/NSU_JavaLabs/tree/master/lab3_game)
-  Классический тетрис.
-  #### 	- [FactoryEmulator](https://github.com/mrMaliosi/NSU_JavaLabs/tree/master/lab4_factoryEmulator)
-  Эмулятор работы фабрики.
-  #### 	- [Messenger](https://github.com/mrMaliosi/NSU_JavaLabs/tree/master/lab5_messenger)
-  Простой мессенджер.
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me:)](https://git.io/typing-svg)
 
@@ -124,25 +147,6 @@ So, there is my projects:
 </details>
 
 
-<details> 
-  <summary><h3>Projects you may interested in</h3></summary>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C)](https://git.io/typing-svg)
-
-  Will be soon...
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C630CA&vCenter=true&repeat=false&random=false&width=435&height=24&lines=C%2B%2B)](https://git.io/typing-svg)
-
-  Will be soon...
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EE9C2F&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Java)](https://git.io/typing-svg)
-
-  
-  
-</details>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -153,29 +157,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-#### My competitive programming achivements 🥇🥈🏅:
--	All-Russian Olympiad of schoolchildren in computer science regional stage (2021-2022) 
-    - 🌟 Participation
--	XXIII Open All-Siberian Programming Olympiad named after I.V. Pottosin.
-	  - 🌟 Participation (MathWay team, online)
--	ICPC 2022 West Siberian Regional Contest.
-	  - 🥈 Silver medal (MathWay team, online)
--	ICPC 2022 Northern Eurasia Finals
-	  - 🥈 Second degree diploma (MathWay team, Saint-Petersburg)
--	BSUIR Open XI
-	  - 🌟 Participation (MathWay team, Minsk)
--	XXIV Open All-Siberian Programming Olympiad named after I.V. Pottosin.
-	  - 🥉 Third degree diploma  (MathWay team, Novosibirsk)
--	RuCode 2023
-	  - 🥇 First degree diploma  (MathWay team, Novosibirsk)
--	ICPC 2023 West Siberian Regional Contest. 
-	  - 🥇 Gold medal (MathWay team, online)
--	ICPC 2023 Northern Eurasia Finals
-	  - 🥉 Third degree diploma (MathWay team, Novosibirsk)
--	ICPC 47th Annual World Championship
-	  - 🏅 Ranked (MathWay team, Luxor)
 
 
 <a href="https://github.com/mrMaliosi/NSU_MPI_Balancer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrMaliosi&repo=NSU_MPI_Balancer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
